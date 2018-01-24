@@ -265,3 +265,6 @@ __pycache__/
 My Inspector Results*/
 My Advisor Results*/
 My Amplifier Results*/
+
+#Project Specific
+*.out
