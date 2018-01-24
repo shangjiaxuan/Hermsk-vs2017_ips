@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Application" Version="11.0" ProjectIdGuid="{ED7DA76D-241F-4B27-9645-FAD1A467A88E}">
+	<Configurations>
+		<Configuration Name="Debug|Win32" WorkingDirectory=".\Test"/>
+		<Configuration Name="Release|Win32" WorkingDirectory=".\Test"/>
+		<Configuration Name="Debug|x64" WorkingDirectory=".\Test"/>
+		<Configuration Name="Release|x64" WorkingDirectory=".\Test"/></Configurations></VisualStudioUserFile>
