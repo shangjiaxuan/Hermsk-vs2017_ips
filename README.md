@@ -6,12 +6,12 @@ http://hermes.phys.uwm.edu/projects/elecstruct/hermsk/HS.TOC.html
 
 Please refer to the original conditions when using the original code, which includes the following three files:
 
-hermsk.v07.8.f | parseall.hermsk.f | parsewf.hermsk.f | input.dat
----------------|-------------------|------------------|----------
+[hermsk.v07.8.f](https://github.com/shangjiaxuan/Hermsk-vs2017_ips/blob/master/hermsk.v07.8.f) | [parseall.hermsk.f](https://github.com/shangjiaxuan/Hermsk-vs2017_ips/blob/master/parseall.hermsk.f) | [parsewf.hermsk.f](https://github.com/shangjiaxuan/Hermsk-vs2017_ips/blob/master/parsewf.hermsk.f) | [input.dat](https://github.com/shangjiaxuan/Hermsk-vs2017_ips/blob/master/Test/input.dat)
+-----------------|---------------------|--------------------|------------
 
 Anyone is welcome to contribte, but I also included a Mozilla Public License 2.0 in the reposiptory to make sure that Dr. Pauli is credited for his work, and a copy of the original work can be found at the "original" branch.
 
-I am including the build products int the repository, but since I am using an acedemic license of Intel(R) Parallel Studio XE, the Mozilla Public License 2.0 does not apply to those binaries and PLEASE DO NOT use them out of the conditions specified in the file license.ips
+I am including the build products int the repository, but since I am using an acedemic license of Intel(R) Parallel Studio XE, the Mozilla Public License 2.0 does not apply to those binaries and **PLEASE DO NOT** use them out of the conditions specified in the **[DPD-EULA-for-Intel-Software_May 2017_Version_Final_060217.pdf](https://github.com/shangjiaxuan/Hermsk-vs2017_ips/blob/master/DPD-EULA-for-Intel-Software_May%202017_Version_Final_060217.pdf)** under the Non-Commercial Use terms.
 
 # Building from source
 
