@@ -9,6 +9,16 @@ Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "parseall", "parseall.vfproj
 EndProject
 Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "parsewf", "parsewf.vfproj", "{C8083D5F-C7A7-485C-AEB3-6CD8B820665C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52B95FB8-9003-43E9-A969-2188A1E13A72}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		DPD-EULA-for-Intel-Software_May 2017_Version_Final_060217.pdf = DPD-EULA-for-Intel-Software_May 2017_Version_Final_060217.pdf
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
