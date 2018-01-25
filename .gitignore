@@ -265,3 +265,10 @@ __pycache__/
 My Inspector Results*/
 My Advisor Results*/
 My Amplifier Results*/
+*.u2d
+
+#Project Specific
+*.out
+!Hermsk.vfproj.UserName.user
+!parseall.vfproj.UserName.user
+!parsewf.vfproj.UserName.user
